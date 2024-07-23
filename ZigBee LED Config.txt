@@ -1,0 +1,11 @@
+Co-Ordinator
+LED3 - D13 - Open or Close
+LED4 - COMM - Identify mode
+
+Router
+LED1 - COMM - Running
+LED3 - D13 - Network indication
+
+Edge Device
+LED3 - D13 - Network indication
+LED4 - COMM - Found Bulb
